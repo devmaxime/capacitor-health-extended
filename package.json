@@ -1,6 +1,6 @@
 {
-  "name": "@flomentumsolutions/capacitor-health-extended",
-  "version": "0.1.0",
+  "name": "@devmaxime/capacitor-health-extended",
+  "version": "0.1.4",
   "description": "Capacitor plugin for Apple HealthKit and Google Health Connect Platform",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -13,16 +13,16 @@
     "ios/Sources",
     "ios/Tests",
     "Package.swift",
-    "FlomentumsolutionsCapacitorHealthExtended.podspec"
+    "DevmaximeCapacitorHealthExtended.podspec"
   ],
-  "author": "Flomentum Solutions, LLC",
+  "author": "Dev Maxime",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Flomentum-Solutions/capacitor-health-extended.git"
+    "url": "https://github.com/devmaxime/capacitor-health-extended.git"
   },
   "bugs": {
-    "url": "https://github.com/Flomentum-Solutions/capacitor-health-extended/issues"
+    "url": "https://github.com/devmaxime/capacitor-health-extended/issues"
   },
   "keywords": [
     "capacitor",
